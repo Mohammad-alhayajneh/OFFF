@@ -7,7 +7,7 @@ Prefix(rdfs:=<http://www.w3.org/2000/01/rdf-schema#>)
 
 
 Ontology(<http://sbmi.uth.edu/ontology/offf>
-Import(<http://www.w3.org/2004/02/skos/core>)
+
 Annotation(<http://purl.org/dc/terms/contributor> "Chidinma Onye")
 Annotation(<http://purl.org/dc/terms/creator> "Jing Wang, Tuan Amith, Cui Tao")
 Annotation(<http://purl.org/dc/terms/description> "an ontology of nutritional information from major fast food companies")
